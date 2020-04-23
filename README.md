@@ -1,3 +1,2 @@
 # hello-world
-First Hellow world repository to learn Github
-This is my first branch code for testing
+Java Hello World application. Can be executed using Windows batch script or Shell script
